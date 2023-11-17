@@ -13,3 +13,5 @@ function findSingleNo(A) {
   console.log(ans);
 }
 findSingleNo(arr);
+
+//Brute fore Approach
